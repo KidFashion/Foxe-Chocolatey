@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>foxe.install</id>
+    <version>2.4.2</version>
+    <title>Fossil (Install)</title>
+    <authors>firstObject</authors>
+    <owners>KidFashion</owners>
+    <projectUrl>http://www.firstobject.com/dn_editor.htm</projectUrl>
+    <iconUrl>http://i1-win.softpedia-static.com/screenshots/icon-60/firstobject-XML-Editor.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Firstobject's free XML editor for Windows is called foxe. It loads big files (multi-megabyte) fast and lets you format XML and edit HTML and any loosely formed XML or other markup. The tree view is editable and customizable for useful navigation.</description>
+<!--    <summary>Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.</summary>-->
+    <tags>foxe xml editor chocolatey firstobject</tags>
+  </metadata>
+</package>
